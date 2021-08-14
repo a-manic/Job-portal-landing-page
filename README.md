@@ -4,4 +4,4 @@ A simple startup-page of a generic job portal with a functional Filter jobs func
 
 Built using HTML, CSS, Javascript.
 
-The resultant website can be found [here](https://a-manic.github.io/Job-portal-landing-page/)
+The resultant website can be found [here](https://a-manic.github.io/Job-portal-landing-page/).
